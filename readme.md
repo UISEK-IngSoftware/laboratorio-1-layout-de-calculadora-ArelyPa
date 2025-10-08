@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: Arely Carolina Pazmiño Moreta
+- **Carrera**: Ingeniería en Informática
+- **Fecha de entrega**: 8 de octubre de 2025
 
 ---
 
